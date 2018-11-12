@@ -1,12 +1,27 @@
 # Tableau (Group 07)
 
-Tableau is a powerful business intelligence tool that allows users to visually analyze their data. It is a secure and flexible end-to-end analytics platform that enables individuals and businesses to devise interactive and shareable dashboards that allows for study of trends, variations, and density of data in the form visually apealling interactive visualizations like graphs and charts. Tableau is easy learn, thanks to their implementation of a simple, yet powerful drag-and-drop feature. The platform allows for real-time collaboration, easy connection to big data sources, and even supports the Hadoop platform. 
+Tableau is a powerful business intelligence tool that allows users to visually analyze their data. It is a secure and flexible end-to-end analytics platform that enables individuals and businesses to devise interactive and shareable dashboards that allows for study of trends, variations, and density of data in the form of visually apealling interactive visualizations like graphs and charts. Tableau is easy learn, thanks to their implementation of a simple, yet powerful drag-and-drop feature. The platform allows for real-time collaboration, easy connection to big data sources, and even supports the Hadoop platform. 
 
 ## Download Tableau
-Click on the link to dowload and install Tableu. 
+
+Click on the link below to dowload Tableau (free for students). After the download is complete, open the installation file and follow the on-screen instructions to install Tableau Desktop on your computer. 
+
 https://www.tableau.com/academic/students
 
+## About our dataset 
+
+Our historical dataset concerns Olympic athletes and medal results spanning twelve decades, specifically from 1896 Olympics in Athens to the 2016 Olympics in Rio de Janeiro. A unanimous decision was made by the team to divide the huge Excel sheet into three smaller sheets in order to showcase Tableau's 'Union' and 'Join' features. 
+
 ## Link to our dataset 
+
+We obtained our dataset on [Kaggle](https://www.kaggle.com/). Here is the link to the raw dataset. 
+
+https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home
+
+We have added the partioned version of the dataset to our repository. Here is a direct link to the file on our repo. 
+
+
+
 
 
 ## Steps 
