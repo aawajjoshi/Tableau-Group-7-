@@ -60,6 +60,7 @@ In order to make the regions concise in the world map that we will be generating
 
 Next, we will create a worksheet.
 
+
 **2. Worksheets**
 
 A worksheet titled *Sheet1* should have been automatically created in the bottom navigation bar. If not, clicking on the **New Worksheet** icon next to the **Data Source** button on the bottom navigation bar will generate a new worksheet. To rename a worksheet, double click on that worksheet tab. Following the aforementioned step, rename the first worksheet to *Average Age*. To dive into the data, simply drag and drop the **Age** field located under **Measures** in the left hand pane to the **Text** icon under the **Marks** section.
@@ -146,6 +147,31 @@ Drag and drop the **Name** field under the **Dimensions** section from the left 
 Drag and drop the **Medal** field under the **Dimensions** section from the left side pane to the **Tooltip** button under the **Marks** section. Hover the mouse pointer on the **Medal** button to toggle the drop-down arrow and click on it. From the drop-down menu, select **Measure** and change it to **Count (Distinct)**. The final worksheet should resemble the one shown in the picture below.
 
 ![ws20](https://user-images.githubusercontent.com/31771293/48374884-b701ef00-e68b-11e8-998b-aa9f5b6b874a.png)
+
+
+**3. Dashboard**
+![db1](https://user-images.githubusercontent.com/31771293/48379750-d5bbb200-e69a-11e8-81bd-b773da6d4330.jpg)
+![db2](https://user-images.githubusercontent.com/31771293/48379751-d5bbb200-e69a-11e8-8f4b-9415b4c8a939.jpg)
+![db3](https://user-images.githubusercontent.com/31771293/48379752-d5bbb200-e69a-11e8-8b0f-740f0699c934.jpg)
+![db4](https://user-images.githubusercontent.com/31771293/48379753-d6544880-e69a-11e8-9880-e9a280fd7c4b.jpg)
+![db5](https://user-images.githubusercontent.com/31771293/48379754-d6544880-e69a-11e8-97e6-07a31e005321.jpg)
+![db6](https://user-images.githubusercontent.com/31771293/48379755-d6544880-e69a-11e8-857f-6b2c7572c67f.jpg)
+![db7](https://user-images.githubusercontent.com/31771293/48379821-0dc2f500-e69b-11e8-94a8-0740e537b84a.jpg)
+![db8](https://user-images.githubusercontent.com/31771293/48379822-0dc2f500-e69b-11e8-8da7-11b9fc28b0ae.jpg)
+![db9](https://user-images.githubusercontent.com/31771293/48379817-0d2a5e80-e69b-11e8-94c1-80f61b38c19b.jpg)
+![db10](https://user-images.githubusercontent.com/31771293/48379818-0d2a5e80-e69b-11e8-8773-6d55c4a647f4.jpg)
+![db11](https://user-images.githubusercontent.com/31771293/48379819-0d2a5e80-e69b-11e8-9195-c99a09e0601d.jpg)
+![db12](https://user-images.githubusercontent.com/31771293/48379820-0d2a5e80-e69b-11e8-9b01-2d7d4575815e.jpg)
+![db13](https://user-images.githubusercontent.com/31771293/48379842-216e5b80-e69b-11e8-8da2-a37a737fdd65.jpg)
+![db14](https://user-images.githubusercontent.com/31771293/48379843-216e5b80-e69b-11e8-84f1-3fea02129988.jpg)
+![db15](https://user-images.githubusercontent.com/31771293/48379844-216e5b80-e69b-11e8-9203-5b30687d9343.jpg)
+![db16](https://user-images.githubusercontent.com/31771293/48379845-2206f200-e69b-11e8-9ff9-c391099c9c7b.jpg)
+![db17](https://user-images.githubusercontent.com/31771293/48379846-2206f200-e69b-11e8-919c-e317471d4c9a.jpg)
+![db18](https://user-images.githubusercontent.com/31771293/48379847-2206f200-e69b-11e8-86ce-e914edeb1ad5.jpg)
+![db19](https://user-images.githubusercontent.com/31771293/48379848-2206f200-e69b-11e8-8569-5ae042119138.jpg)
+![db20](https://user-images.githubusercontent.com/31771293/48379849-2206f200-e69b-11e8-885e-b23b93a19ff5.jpg)
+
+
 
 
 
