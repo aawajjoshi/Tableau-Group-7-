@@ -58,7 +58,7 @@ In order to make the regions concise in the world map that we will be generating
 
 ![gs7](https://user-images.githubusercontent.com/31771293/48343212-695b9700-e637-11e8-9fd6-907696d0e439.png)
 
-Next, we will create a worksheet.
+The next step is creating worksheets. 
 
 
 **2. Worksheets**
@@ -118,6 +118,7 @@ If the calculation is valid then a feedback will appear stating *The calculation
 ![ws12](https://user-images.githubusercontent.com/31771293/48374847-a3ef1f00-e68b-11e8-96e8-0924d1d3d8c0.png)
 
 Next, drag and drop the **Number of Gold Medals** under the **Measures** section from the left side pane to the **Text** button on the **Marks** section. 
+
 ![ws13](https://user-images.githubusercontent.com/31771293/48374863-acdff080-e68b-11e8-90a5-e617d6d7a3c0.png)
 
 Following the aforementioned steps, change the shading color of the worksheet. Rename the header to *Number of Gold Medals* and alter the font color to white, and centrally align the header. Similarly, change the shading color of the title, centrally align the text, and alter the font size to 28. The new worksheet should resemble the one shown in the picture below.
@@ -148,8 +149,12 @@ Drag and drop the **Medal** field under the **Dimensions** section from the left
 
 ![ws20](https://user-images.githubusercontent.com/31771293/48374884-b701ef00-e68b-11e8-998b-aa9f5b6b874a.png)
 
+The next step is creating a dashboard. 
+
 
 **3. Dashboard**
+
+To create a new dashboard, click on **New Worksheet** icon next to the **Data Source** button on the bottom navigation bar will generate a new worksheet.
 ![db1](https://user-images.githubusercontent.com/31771293/48379750-d5bbb200-e69a-11e8-81bd-b773da6d4330.jpg)
 ![db2](https://user-images.githubusercontent.com/31771293/48379751-d5bbb200-e69a-11e8-8f4b-9415b4c8a939.jpg)
 ![db3](https://user-images.githubusercontent.com/31771293/48379752-d5bbb200-e69a-11e8-8b0f-740f0699c934.jpg)
