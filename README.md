@@ -58,11 +58,95 @@ In order to make the regions concise in the world map that we will be generating
 
 ![gs7](https://user-images.githubusercontent.com/31771293/48343212-695b9700-e637-11e8-9fd6-907696d0e439.png)
 
-Next, we will look at WorkSheets.
+Next, we will create a worksheet.
 
-2. WorkSheets
+**2. Worksheets**
 
-You can rename the worksheet by double clicking on the tab. For the first worksheet rename it Average Age. On the left under the Measures sections you will see Age. Drag and drop Age to the Text Icon in the Marks section. You should see this: 
+A worksheet titled *Sheet1* should have been automatically created in the bottom navigation bar. If not, clicking on the **New Worksheet** icon next to the **Data Source** button on the bottom navigation bar will generate a new worksheet. To rename a worksheet, double click on that worksheet tab. Following the aforementioned step, rename the first worksheet to *Average Age*. To dive into the data, simply drag and drop the **Age** field located under **Measures** in the left hand pane to the **Text** icon under the **Marks** section.
+
+![ws1](https://user-images.githubusercontent.com/31771293/48374784-802bd900-e68b-11e8-8c31-e9650022cfdd.png)
+
+By default, the worksheet will generate the total sum of ages. Since, we seek the average age, hover the mouse pointer on the **SUM(Age)** button to toggle the drop-down arrow. Click on the arrow to produce a drop-down box. In the drop-down box, select **Measure** and then **Average** to generate the average age of the Olympic athletes. 
+
+![ws2](https://user-images.githubusercontent.com/31771293/48374796-8752e700-e68b-11e8-89f2-ff8971e42e1f.png)
+
+To change the background color of the worksheet, click on **Format** at the top navigation bar and select **Shading**. *Format Shading* pane will pop-up on the left hand side of the screen. The worksheet background color can be altereted in the **Worksheet** drop-down selection under **Default**.
+
+![ws3](https://user-images.githubusercontent.com/31771293/48374806-8c179b00-e68b-11e8-8da5-782c33e68005.png)
+
+To change the header, double click on the default *Sheet 1* header to bring up a pop-up box that allows formatting. Change the header from *Sheet 1* to *Average Age*, align the header on the center of the sheet, and change the font color to white.
+
+![ws4](https://user-images.githubusercontent.com/31771293/48374820-95a10300-e68b-11e8-920a-2559fba246aa.png)
+
+To change the background of the header section, right click on it and select **Format Title**. *Format Title and Caption* pane, which will show up on the left hand side of the screen, gives the option to change different attributes of the header section.
+
+![ws5](https://user-images.githubusercontent.com/31771293/48374821-95a10300-e68b-11e8-8dfa-8f3b9b60f038.png)
+
+To alter the attributes of the main text, click on the **Text** button under the **Marks** section. From the pop-up box, align the text in the center of the screen. To change the font size of the text, click on the **...** button. Change the font size to 28. 
+
+![ws6](https://user-images.githubusercontent.com/31771293/48374822-95a10300-e68b-11e8-9d79-914f3091de61.png)
+
+Following the aforementioned steps will produce a worksheet that resembles the worksheet in the picture below.
+
+![ws7](https://user-images.githubusercontent.com/31771293/48374842-a3568880-e68b-11e8-966d-eba6d71f9ff8.png)
+
+Now, we will create another worksheet. Click on the **New Worksheet** button on the bottom navigation bar and rename the new worksheet to *Number of Athletes*. Next, drag and drop the **Name** field from the **Dimensions** on the left hand pane to the **Text** button under the **Marks** section.
+
+![ws8](https://user-images.githubusercontent.com/31771293/48374843-a3568880-e68b-11e8-83bd-3e2bbae8161d.png)
+
+Hover the mouse pointer on the **Name** button to toggle the drop-down arrow and click on it. From the drop-down menu, select **Measure** and change it to **Count (Distinct)**.
+
+![ws9](https://user-images.githubusercontent.com/31771293/48374844-a3568880-e68b-11e8-87c5-4180c702f54a.png)
+
+Following the aforementioned steps, change the shading color of the worksheet. Rename the header to *Number of Athletes* and alter the font color to white, and centrally align the header. Similarly, change the shading color of the title, centrally align the text, and alter the font size to 28. The new worksheet should resemble the one shown in the picture below.
+
+![ws10](https://user-images.githubusercontent.com/31771293/48374845-a3568880-e68b-11e8-99aa-bdb8c678b621.png)
+
+Now, lets create a third worksheet called *Gold Medals*. To create a new measurement for the worksheet click on **Analysis** on the top navigation bar and select **Create Calculated Field**.
+
+![ws11](https://user-images.githubusercontent.com/31771293/48374846-a3568880-e68b-11e8-8447-0a4d2aca2435.png)
+
+From the pop-up box that appears on-screen, change the title to *Number of Gold Medals*. Inside the calculation box, type in the following:
+```
+IF [Medal] = "Gold"
+THEN 1
+END
+```
+If the calculation is valid then a feedback will appear stating *The calculation is valid*. Then, click on apply. 
+
+![ws12](https://user-images.githubusercontent.com/31771293/48374847-a3ef1f00-e68b-11e8-96e8-0924d1d3d8c0.png)
+
+Next, drag and drop the **Number of Gold Medals** under the **Measures** section from the left side pane to the **Text** button on the **Marks** section. 
+![ws13](https://user-images.githubusercontent.com/31771293/48374863-acdff080-e68b-11e8-90a5-e617d6d7a3c0.png)
+
+Following the aforementioned steps, change the shading color of the worksheet. Rename the header to *Number of Gold Medals* and alter the font color to white, and centrally align the header. Similarly, change the shading color of the title, centrally align the text, and alter the font size to 28. The new worksheet should resemble the one shown in the picture below.
+
+![ws14](https://user-images.githubusercontent.com/31771293/48374864-acdff080-e68b-11e8-9c62-134ec09ba7f0.png)
+
+Next, we will create another worksheet titled *Gender*. Drag and drop the **Name** field under the **Dimensions** section from the left side pane to the **Columns** box in the worksheet. If a *Warning* pop-up box shows, select **Add all members**. Hover the mouse pointer on the **Name** button to toggle the drop-down arrow and click on it. From the drop-down menu, select **Measure** and change it to **Count (Distinct)**.
+
+![ws15](https://user-images.githubusercontent.com/31771293/48374865-acdff080-e68b-11e8-8099-068c9f3ce70f.png)
+
+Drag and drop the **Sex** field under the **Dimensions** section from the left side pane to the **Rows** box in the worksheet.
+
+![ws16](https://user-images.githubusercontent.com/31771293/48374866-acdff080-e68b-11e8-89f5-23461323f3f5.png)
+
+Drag and drop the same **Sex** field under the **Dimensions** section from the left side pane to the **Colors** button under the **Marks** section. The new worksheet should resemble the one shown in the picture below.
+
+![ws17](https://user-images.githubusercontent.com/31771293/48374867-acdff080-e68b-11e8-94d7-45cb7109f2d7.png)
+
+Finally, create the last worksheet titled *Olympics Data by Region*. Double clikcing on the **Regions** field under the **Dimesions** section on the left side pane will generate a map in the new worksheet. 
+
+![ws18](https://user-images.githubusercontent.com/31771293/48374868-acdff080-e68b-11e8-8ed9-b3ef1ba1bbe5.png)
+
+Drag and drop the **Name** field under the **Dimensions** section from the left side pane to the **Color** button under the **Marks** section. If a *Warning* pop-up box shows, select **Add all members**. Hover the mouse pointer on the **Name** button to toggle the drop-down arrow and click on it. From the drop-down menu, select **Measure** and change it to **Count (Distinct)**.
+
+![ws19](https://user-images.githubusercontent.com/31771293/48374883-b6695880-e68b-11e8-8533-76c3741dd259.png)
+
+Drag and drop the **Medal** field under the **Dimensions** section from the left side pane to the **Tooltip** button under the **Marks** section. Hover the mouse pointer on the **Medal** button to toggle the drop-down arrow and click on it. From the drop-down menu, select **Measure** and change it to **Count (Distinct)**. The final worksheet should resemble the one shown in the picture below.
+
+![ws20](https://user-images.githubusercontent.com/31771293/48374884-b701ef00-e68b-11e8-998b-aa9f5b6b874a.png)
+
 
 
 Click on the New Story icon besides the New Dashborad icon to create a story. Drag and drop each sheet to the top half of the window (besides 'Add a Caption') to create a story from our sheets. It is important that we drag each of the sheets to the top window because if we drag and drop it on the bottom window, it will replace the sheet you dragged prior to the new one. You can add a bief caption to each sheet you drag to the window by clicking on 'Add a Caption'. The caption is simply a story about the sheet. 
@@ -70,8 +154,9 @@ Click on the New Story icon besides the New Dashborad icon to create a story. Dr
 If you followed all the aforementioned steps, your story should look something like this. 
 
 ## References 
-Kagle
-Tableau's video 
+[Tableau's *Getting Started* video tutorial](https://www.tableau.com/learn/tutorials/on-demand/getting-started?product=tableau_desktop%2Btableau_prep&version=tableau_desktop_2018_3%2Btableau_prep_2018_2_1&topic=getting_started)
+
+[Dataset obtained from Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home)
 
 
 ## Authors 
