@@ -58,16 +58,35 @@ In order to make the regions concise in the world map that we will be generating
 
 ![gs7](https://user-images.githubusercontent.com/31771293/48343212-695b9700-e637-11e8-9fd6-907696d0e439.png)
 
-Next, we will look at WorkSheets.
+Next, we will create a worksheet.
 
 **2. Worksheet**
 
+A worksheet titled *Sheet1* should have been automatically created in the bottom navigation bar. If not, clicking on the **New Worksheet** icon next to the **Data Source** button on the bottom navigation bar will generate a new worksheet. To rename a worksheet, double click on that worksheet tab. Following the aforementioned step, rename the first worksheet to *Average Age*. To dive into the data, simply drag and drop the **Age** field located under **Measures** in the left hand pane to the **Text** icon under the **Marks** section.
+
 ![ws1](https://user-images.githubusercontent.com/31771293/48374784-802bd900-e68b-11e8-8c31-e9650022cfdd.png)
+
+By default, the worksheet will generate the total sum of ages. Since, we seek the average age, hover the mouse pointer on the **SUM(Age)** button to toggle the drop-down arrow. Click on the arrow to produce a drop-down box. In the drop-down box, select **Measure** and then **Average** to generate the average age of the Olympic athletes. 
+
 ![ws2](https://user-images.githubusercontent.com/31771293/48374796-8752e700-e68b-11e8-89f2-ff8971e42e1f.png)
+
+To change the background color of the worksheet, click on **Format** at the top navigation bar and select **Shading**. *Format Shading* pane will pop-up on the left hand side of the screen. The worksheet background color can be altereted in the **Worksheet** drop-down selection under **Default**.
+
 ![ws3](https://user-images.githubusercontent.com/31771293/48374806-8c179b00-e68b-11e8-8da5-782c33e68005.png)
+
+To change the header, double click on the default *Sheet 1* header to bring up a pop-up box that allows formatting. Change the header from *Sheet 1* to *Average Age*, align the header on the center of the sheet, and change the font color to white.
+
 ![ws4](https://user-images.githubusercontent.com/31771293/48374820-95a10300-e68b-11e8-920a-2559fba246aa.png)
+
+To change the background of the header section, right click on it and select **Format Title**. *Format Title and Caption* pane, which will show up on the left hand side of the screen, gives the option to change different attributes of the header section.
+
 ![ws5](https://user-images.githubusercontent.com/31771293/48374821-95a10300-e68b-11e8-8dfa-8f3b9b60f038.png)
+
+To alter the attributes of the main text, click on the **Text** button under the **Marks** section. From the pop-up box, align the text in the center of the screen. To change the font size of the text, click on the **...** button. Change the font size to 28. 
+
 ![ws6](https://user-images.githubusercontent.com/31771293/48374822-95a10300-e68b-11e8-9d79-914f3091de61.png)
+
+
 ![ws7](https://user-images.githubusercontent.com/31771293/48374842-a3568880-e68b-11e8-966d-eba6d71f9ff8.png)
 ![ws8](https://user-images.githubusercontent.com/31771293/48374843-a3568880-e68b-11e8-83bd-3e2bbae8161d.png)
 ![ws9](https://user-images.githubusercontent.com/31771293/48374844-a3568880-e68b-11e8-87c5-4180c702f54a.png)
