@@ -28,7 +28,18 @@ In this project, we explore a few different things you can accomplish with a dat
 
 ## Step-by-step instructions 
 
-After the installation is complete, run the Tableau desktop application. When the application loads, select 'Microsoft Excel' under 'Connect' and 'To a File' since we are working with excel datasheet. 
+1. Getting Started
+
+After the installation is complete, run the Tableau Desktop application. A fresh startup will load into the *Start Screen*. The pane on the left hand side of the *Start Screen* is the *Connect Pane*. Since we are working with an excel datasheet, we will select **Microsoft Excel** option listed under **To a File**. In the pop-up window, navigate to where you saved the downloaded dataset and double click the file to open it. 
+
+Successful processing of the dataset will lead to the *Data Source* page. 
+
+
+
+
+
+
+When the application loads, select **Microsoft Excel** under **Connect** and **To a File** since we are working with excel datasheet. 
 
 After the datasheet is processed, double-click on 'New Union' to open the Union pop-up. Drag and drop the three excel sheets (First 3rd, Middle, Last 3rd) and click 'Apply' to create a Union of our three datasheets. Click automatic update. 
 
