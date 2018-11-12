@@ -154,18 +154,51 @@ The next step is creating a dashboard.
 
 **3. Dashboard**
 
-To create a new dashboard, click on **New Worksheet** icon next to the **Data Source** button on the bottom navigation bar will generate a new worksheet.
+To create a new dashboard, click on **New Dashboard** icon next to the **New Worksheet** icon on the bottom navigation bar. To rename a worksheet, double click on that worksheet tab or right click on the tab and select **Rename**.
+
 ![db1](https://user-images.githubusercontent.com/31771293/48379750-d5bbb200-e69a-11e8-81bd-b773da6d4330.jpg)
+
+The left side pane of the new dashboard lists all the sheets under the **Sheets** section. Select the *Olympics Data by Region* worksheet and drag it to the empty dashboard canvas.
+
 ![db2](https://user-images.githubusercontent.com/31771293/48379751-d5bbb200-e69a-11e8-8f4b-9415b4c8a939.jpg)
+
+Following the aforementioned steps will produce a dashboard canvas that resembles the one in the picture below.
+
 ![db3](https://user-images.githubusercontent.com/31771293/48379752-d5bbb200-e69a-11e8-8b0f-740f0699c934.jpg)
+
+Next, select the *Gender* worksheet and drag it to the dashboard canvas and hold the mouse button until a rectangular selection appears on the lower half of the canvas before dropping the selection.
+
 ![db4](https://user-images.githubusercontent.com/31771293/48379753-d6544880-e69a-11e8-9880-e9a280fd7c4b.jpg)
+
+Following the aforementioned steps will produce a dashboard canvas that resembles the one in the picture below.
+
 ![db5](https://user-images.githubusercontent.com/31771293/48379754-d6544880-e69a-11e8-97e6-07a31e005321.jpg)
+
+Drag the rest of the worksheets under the *Gender* section in the dashboard. Initially, the worksheets may appear misaligned as shown in the picture below.
+
 ![db6](https://user-images.githubusercontent.com/31771293/48379755-d6544880-e69a-11e8-857f-6b2c7572c67f.jpg)
+
+To fix this issue, right click on one of three sheets to bring up a pop-up menu and select **Fit Width** under **Fit**. Do the same to properly align the remaining two worksheets.
+
 ![db7](https://user-images.githubusercontent.com/31771293/48379821-0dc2f500-e69b-11e8-94a8-0740e537b84a.jpg)
+
+Once the widths are fixed, hover the mouse pointer on the edge of a sheet to toggle the resize arrow. Click and drag the arrow to resize the sheets on the dashboard.
+
 ![db8](https://user-images.githubusercontent.com/31771293/48379822-0dc2f500-e69b-11e8-8da7-11b9fc28b0ae.jpg)
+
+To reduce the space that the filters are taking up on the right side of the dashboard, click on the purple-scaled filter that may have a title similar to *Distinct count of names* to toggle a grab bar. Click and drag the filter to a different location within the sheet using the grab bar.
+
 ![db9](https://user-images.githubusercontent.com/31771293/48379817-0d2a5e80-e69b-11e8-94c1-80f61b38c19b.jpg)
+
+Place the filter directly underneath the map.
+
 ![db10](https://user-images.githubusercontent.com/31771293/48379818-0d2a5e80-e69b-11e8-8773-6d55c4a647f4.jpg)
+
+Following the aforementioned steps will leave one filter behind. This filter is not required and can be removed by clicking on it to toggle an inversed traingle icon to produce a drop-down box and selecting **Remove from Dashboard**.
+
 ![db11](https://user-images.githubusercontent.com/31771293/48379819-0d2a5e80-e69b-11e8-9195-c99a09e0601d.jpg)
+
+
 ![db12](https://user-images.githubusercontent.com/31771293/48379820-0d2a5e80-e69b-11e8-9b01-2d7d4575815e.jpg)
 ![db13](https://user-images.githubusercontent.com/31771293/48379842-216e5b80-e69b-11e8-8da2-a37a737fdd65.jpg)
 ![db14](https://user-images.githubusercontent.com/31771293/48379843-216e5b80-e69b-11e8-84f1-3fea02129988.jpg)
