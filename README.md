@@ -28,7 +28,7 @@ In this project, we explore a few different things you can accomplish with a dat
 
 ## Step-by-step instructions 
 
-1. Getting Started
+**1. Getting Started**
 
 After the installation is complete, run the Tableau Desktop application. A fresh startup will load into the *Start Screen*. The pane on the left hand side of the *Start Screen* is the *Connect Pane*. Since we are working with an excel datasheet, we will select **Microsoft Excel** option listed under **To a File**. 
 
