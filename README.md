@@ -60,7 +60,30 @@ In order to make the regions concise in the world map that we will be generating
 
 Next, we will look at WorkSheets.
 
-2. WorkSheets
+**2. Worksheet**
+
+![ws1](https://user-images.githubusercontent.com/31771293/48374784-802bd900-e68b-11e8-8c31-e9650022cfdd.png)
+![ws2](https://user-images.githubusercontent.com/31771293/48374796-8752e700-e68b-11e8-89f2-ff8971e42e1f.png)
+![ws3](https://user-images.githubusercontent.com/31771293/48374806-8c179b00-e68b-11e8-8da5-782c33e68005.png)
+![ws4](https://user-images.githubusercontent.com/31771293/48374820-95a10300-e68b-11e8-920a-2559fba246aa.png)
+![ws5](https://user-images.githubusercontent.com/31771293/48374821-95a10300-e68b-11e8-8dfa-8f3b9b60f038.png)
+![ws6](https://user-images.githubusercontent.com/31771293/48374822-95a10300-e68b-11e8-9d79-914f3091de61.png)
+![ws7](https://user-images.githubusercontent.com/31771293/48374842-a3568880-e68b-11e8-966d-eba6d71f9ff8.png)
+![ws8](https://user-images.githubusercontent.com/31771293/48374843-a3568880-e68b-11e8-83bd-3e2bbae8161d.png)
+![ws9](https://user-images.githubusercontent.com/31771293/48374844-a3568880-e68b-11e8-87c5-4180c702f54a.png)
+![ws10](https://user-images.githubusercontent.com/31771293/48374845-a3568880-e68b-11e8-99aa-bdb8c678b621.png)
+![ws11](https://user-images.githubusercontent.com/31771293/48374846-a3568880-e68b-11e8-8447-0a4d2aca2435.png)
+![ws12](https://user-images.githubusercontent.com/31771293/48374847-a3ef1f00-e68b-11e8-96e8-0924d1d3d8c0.png)
+![ws13](https://user-images.githubusercontent.com/31771293/48374863-acdff080-e68b-11e8-90a5-e617d6d7a3c0.png)
+![ws14](https://user-images.githubusercontent.com/31771293/48374864-acdff080-e68b-11e8-9c62-134ec09ba7f0.png)
+![ws15](https://user-images.githubusercontent.com/31771293/48374865-acdff080-e68b-11e8-8099-068c9f3ce70f.png)
+![ws16](https://user-images.githubusercontent.com/31771293/48374866-acdff080-e68b-11e8-89f5-23461323f3f5.png)
+![ws17](https://user-images.githubusercontent.com/31771293/48374867-acdff080-e68b-11e8-94d7-45cb7109f2d7.png)
+![ws18](https://user-images.githubusercontent.com/31771293/48374868-acdff080-e68b-11e8-8ed9-b3ef1ba1bbe5.png)
+![ws19](https://user-images.githubusercontent.com/31771293/48374883-b6695880-e68b-11e8-8533-76c3741dd259.png)
+![ws20](https://user-images.githubusercontent.com/31771293/48374884-b701ef00-e68b-11e8-998b-aa9f5b6b874a.png)
+
+
 
 You can rename the worksheet by double clicking on the tab. For the first worksheet rename it Average Age. On the left under the Measures sections you will see Age. Drag and drop Age to the Text Icon in the Marks section. You should see this: 
 
