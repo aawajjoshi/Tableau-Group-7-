@@ -1,16 +1,16 @@
 # Tableau (Group 07)
 
-Tableau is a powerful business intelligence tool that allows users to visually analyze their data. It is a secure and flexible end-to-end analytics platform that enables individuals and businesses to devise interactive and shareable dashboards that allows for study of trends, variations, and density of data in the form of visually apealling interactive visualizations like graphs and charts. Tableau is easy learn, thanks to their implementation of a simple, yet powerful drag-and-drop feature. The platform allows for real-time collaboration, easy connection to big data sources, and even supports the Hadoop platform. 
+Tableau is a powerful business intelligence tool that allows users to visually analyze their data. It is a secure and flexible end-to-end analytics platform that enables individuals and businesses to devise interactive and shareable dashboards that allows for study of trends, variations, and density of data in the form of visually apealling interactive visualizations like graphs and charts. Tableau is easy learn, thanks to their implementation of a simple, yet powerful drag-and-drop feature. The platform allows for real-time collaboration, easy connection to big data sources, and even supports the Hadoop platform.   
 
 ## Download Tableau
 
-Click on the link below to dowload Tableau (free for students). After the download is complete, open the installation file and follow the on-screen instructions to install Tableau Desktop on your computer. 
+Click on the link below to dowload Tableau (free for students). After the download is complete, open the installation file and follow the on-screen instructions to install Tableau Desktop on your computer.      
 
 https://www.tableau.com/academic/students
 
 ## About our dataset 
 
-Our historical dataset concerns Olympic athletes and medal results spanning twelve decades, specifically from 1896 Olympics in Athens to the 2016 Olympics in Rio de Janeiro. A unanimous decision was made by the team to divide the huge Excel sheet into three smaller sheets in order to showcase Tableau's **Union** and **Join** features. 
+Our historical dataset concerns Olympic athletes and medal results spanning twelve decades, specifically from 1896 Olympics in Athens to the 2016 Olympics in Rio de Janeiro. A unanimous decision was made by the team to divide the huge Excel sheet into three smaller sheets in order to showcase Tableau's **Union** and **Join** features.    
 
 ## Link to our dataset 
 
@@ -20,14 +20,15 @@ https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-result
 
 We have added the partioned version of the dataset to our repository. Here is a direct link to the file on our repo.   
 
-https://github.com/aawajjoshi/Tableau-Group-7-/blob/master/AthleteEvents.xlsx
+https://github.com/aawajjoshi/Tableau-Group-7-/blob/master/AthleteEvents.xlsx   
 
 ## Overview of our project
 
-In this project, we explore a few different things you can accomplish with a dataset using Tableau, namely creating graphical visualizations on a worksheet, producing an interactive dashboard, and conveying your message through a rich story. 
+In this project, we explore a few different things you can accomplish with a dataset using Tableau, namely creating graphical visualizations on a worksheet, producing an interactive dashboard, and conveying your message through a rich story.    
 
-## Step-by-step instructions 
-
+## Step-by-step instructions      
+  
+  
 **1. Getting Started**
 
 After the installation is complete, run the Tableau Desktop application. A fresh startup will load into the *Start Screen*. The pane on the left hand side of the *Start Screen* is the *Connect Pane*. Since we are working with an excel datasheet, we will select **Microsoft Excel** option listed under **To a File**. 
@@ -58,7 +59,7 @@ In order to make the regions concise in the world map that we will be generating
 
 ![gs7](https://user-images.githubusercontent.com/31771293/48343212-695b9700-e637-11e8-9fd6-907696d0e439.png)
 
-The next step is creating worksheets. 
+The next step is creating worksheets.    
 
 
 
@@ -150,7 +151,7 @@ Drag and drop the **Medal** field under the **Dimensions** section from the left
 
 ![ws20](https://user-images.githubusercontent.com/31771293/48374884-b701ef00-e68b-11e8-998b-aa9f5b6b874a.png)
 
-The next step is creating a dashboard. 
+The next step is creating a dashboard.    
 
 
 
@@ -230,7 +231,7 @@ To view your dashboard in presentation mode, select **Windows** on the top navig
 
 Following the aforementioned steps will produce a dashboard that resembles the one shown in the picture below.
 
-![db20](https://user-images.githubusercontent.com/31771293/48379849-2206f200-e69b-11e8-885e-b23b93a19ff5.jpg)
+![db20](https://user-images.githubusercontent.com/31771293/48379849-2206f200-e69b-11e8-885e-b23b93a19ff5.jpg)  
 
 
 
@@ -248,7 +249,7 @@ Following the aforementioned steps will produce stories that resemble the ones s
 
 ![st4](https://user-images.githubusercontent.com/31771293/48391932-9444fa00-e6ce-11e8-9d3e-c99786100aa1.png)
 
-![st5](https://user-images.githubusercontent.com/31771293/48391933-9444fa00-e6ce-11e8-93d4-9a642767da9d.png)
+![st5](https://user-images.githubusercontent.com/31771293/48391933-9444fa00-e6ce-11e8-93d4-9a642767da9d.png)  
 
 
 ## References 
@@ -262,7 +263,7 @@ Following the aforementioned steps will produce stories that resemble the ones s
 
 [Edurek'a *Tableau Training for Beginners* series on YouTube](https://www.youtube.com/watch?v=jj6-0cvcNEA)
 
-[Tableau discussions on Stack Overflow](https://stackoverflow.com/questions/tagged/tableau)
+[Tableau discussions on Stack Overflow](https://stackoverflow.com/questions/tagged/tableau)   
 
 
 ## Authors 
