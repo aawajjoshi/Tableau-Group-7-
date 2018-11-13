@@ -198,15 +198,39 @@ Following the aforementioned steps will leave one filter behind. This filter is 
 
 ![db11](https://user-images.githubusercontent.com/31771293/48379819-0d2a5e80-e69b-11e8-9195-c99a09e0601d.jpg)
 
+Create additional filters for the dashboard to filter the data by season, by sport, and by year. Click on the *Olympics Data by Region* worksheet tab on the bottom navigation bar to open the worksheet. 
 
 ![db12](https://user-images.githubusercontent.com/31771293/48379820-0d2a5e80-e69b-11e8-9b01-2d7d4575815e.jpg)
+
+Then, drag and drop **Year**, **Sport**, and **Season** into the **Filters** section which is located directly above the **Marks** section.
+
 ![db13](https://user-images.githubusercontent.com/31771293/48379842-216e5b80-e69b-11e8-8da2-a37a737fdd65.jpg)
+
+Next, click on the map on your dashboard to toggle the inverted triangle icon on its upper right side corner. Click on the icon and select **Filters** to ensure that the three filters have been added.
+
 ![db14](https://user-images.githubusercontent.com/31771293/48379843-216e5b80-e69b-11e8-84f1-3fea02129988.jpg)
+
+Click on each of the three filters to add them to the dashboard. Following the aforementioned steps will produce a dashboard that resembles the one in the picture below.
+
 ![db15](https://user-images.githubusercontent.com/31771293/48379844-216e5b80-e69b-11e8-9203-5b30687d9343.jpg)
+
+The filters pane will initially apper very messy because all the filter options are expanded. To implement a visually cleaner look, click on a filter to toggle the inverted triangle icon. Click on the icon and select **Single value (dropdown)** to make use of a drop-down selection format. 
+
 ![db16](https://user-images.githubusercontent.com/31771293/48379845-2206f200-e69b-11e8-9ff9-c391099c9c7b.jpg)
+
+Repeat the step for the remaining two filters. To place them in a more central and easily accessible area of the dashboard, drag each of the three filters to the map portion of the dashboard and hold the mouse button until a rectangular outline appears. Let go of the mouse button to release the three filters within the rectangular box.
+
 ![db17](https://user-images.githubusercontent.com/31771293/48379846-2206f200-e69b-11e8-919c-e317471d4c9a.jpg)
+
+Adjust the size of each filter box as desired. Arrange them side-by-side for easy accessibility as shown in the picture below. 
+
 ![db18](https://user-images.githubusercontent.com/31771293/48379847-2206f200-e69b-11e8-86ce-e914edeb1ad5.jpg)
+
+To apply a filter, click on the dropdown arrow and select **All Using This Data Source** under **Apply to Worksheets**. This option will apply a filter to all the worksheets on the dashboards.
+
 ![db19](https://user-images.githubusercontent.com/31771293/48379848-2206f200-e69b-11e8-8569-5ae042119138.jpg)
+
+
 ![db20](https://user-images.githubusercontent.com/31771293/48379849-2206f200-e69b-11e8-885e-b23b93a19ff5.jpg)
 
 
