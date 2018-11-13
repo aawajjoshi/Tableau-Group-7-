@@ -166,67 +166,63 @@ Following the aforementioned steps will produce a dashboard canvas that resemble
 
 ![db3](https://user-images.githubusercontent.com/31771293/48379752-d5bbb200-e69a-11e8-8b0f-740f0699c934.jpg)
 
-Next, select the *Gender* worksheet and drag it to the dashboard canvas and hold the mouse button until a rectangular selection appears on the lower half of the canvas before dropping the selection.
+Next, select the *Gender* worksheet and drag it to the dashboard canvas and hold the mouse button until a rectangular outline appears on the lower half of the canvas. Then, let go of the mouse button to release the worksheet within the rectangular box. Following the aforementioned steps will produce a dashboard canvas that resembles the one in the picture below.
 
 ![db4](https://user-images.githubusercontent.com/31771293/48379753-d6544880-e69a-11e8-9880-e9a280fd7c4b.jpg)
 
-Following the aforementioned steps will produce a dashboard canvas that resembles the one in the picture below.
+Drag the rest of the worksheets under the *Gender* section in the dashboard. Initially, the worksheets may appear misaligned as shown in the picture below.
 
 ![db5](https://user-images.githubusercontent.com/31771293/48379754-d6544880-e69a-11e8-97e6-07a31e005321.jpg)
 
-Drag the rest of the worksheets under the *Gender* section in the dashboard. Initially, the worksheets may appear misaligned as shown in the picture below.
+To fix this issue, right click on one of three sheets to bring up a pop-up menu and select **Fit Width** under **Fit**. Do the same to properly align the remaining two worksheets.
 
 ![db6](https://user-images.githubusercontent.com/31771293/48379755-d6544880-e69a-11e8-857f-6b2c7572c67f.jpg)
 
-To fix this issue, right click on one of three sheets to bring up a pop-up menu and select **Fit Width** under **Fit**. Do the same to properly align the remaining two worksheets.
+Once the widths are fixed, hover the mouse pointer on the edge of a sheet to toggle the resize arrow. Click and drag the arrow to resize the sheets on the dashboard.
 
 ![db7](https://user-images.githubusercontent.com/31771293/48379821-0dc2f500-e69b-11e8-94a8-0740e537b84a.jpg)
 
-Once the widths are fixed, hover the mouse pointer on the edge of a sheet to toggle the resize arrow. Click and drag the arrow to resize the sheets on the dashboard.
+To reduce the space that the filters are taking up on the right side of the dashboard, click on the purple-scaled filter that may have a title similar to *Distinct count of names* to toggle a grab bar. Click and drag the filter to a different location within the sheet using the grab bar.
 
 ![db8](https://user-images.githubusercontent.com/31771293/48379822-0dc2f500-e69b-11e8-8da7-11b9fc28b0ae.jpg)
 
-To reduce the space that the filters are taking up on the right side of the dashboard, click on the purple-scaled filter that may have a title similar to *Distinct count of names* to toggle a grab bar. Click and drag the filter to a different location within the sheet using the grab bar.
+Place the filter directly underneath the map.
 
 ![db9](https://user-images.githubusercontent.com/31771293/48379817-0d2a5e80-e69b-11e8-94c1-80f61b38c19b.jpg)
 
-Place the filter directly underneath the map.
+Following the aforementioned steps will leave one filter behind. This filter is not required and can be removed by clicking on it to toggle an inversed traingle icon to produce a drop-down box and selecting **Remove from Dashboard**.
 
 ![db10](https://user-images.githubusercontent.com/31771293/48379818-0d2a5e80-e69b-11e8-8773-6d55c4a647f4.jpg)
 
-Following the aforementioned steps will leave one filter behind. This filter is not required and can be removed by clicking on it to toggle an inversed traingle icon to produce a drop-down box and selecting **Remove from Dashboard**.
+Create additional filters for the dashboard to filter the data by season, by sport, and by year. Click on the *Olympics Data by Region* worksheet tab on the bottom navigation bar to open the worksheet. Then, drag and drop **Year**, **Sport**, and **Season** into the **Filters** section which is located directly above the **Marks** section.
 
 ![db11](https://user-images.githubusercontent.com/31771293/48379819-0d2a5e80-e69b-11e8-9195-c99a09e0601d.jpg)
 
-Create additional filters for the dashboard to filter the data by season, by sport, and by year. Click on the *Olympics Data by Region* worksheet tab on the bottom navigation bar to open the worksheet. 
-
-![db12](https://user-images.githubusercontent.com/31771293/48379820-0d2a5e80-e69b-11e8-9b01-2d7d4575815e.jpg)
-
-Then, drag and drop **Year**, **Sport**, and **Season** into the **Filters** section which is located directly above the **Marks** section.
+Next, click on the map on your dashboard to toggle the inverted triangle icon on its upper right side corner. Click on the icon and select **Filters** to ensure that the three filters have been added.
 
 ![db13](https://user-images.githubusercontent.com/31771293/48379842-216e5b80-e69b-11e8-8da2-a37a737fdd65.jpg)
 
-Next, click on the map on your dashboard to toggle the inverted triangle icon on its upper right side corner. Click on the icon and select **Filters** to ensure that the three filters have been added.
+Click on each of the three filters to add them to the dashboard. Following the aforementioned steps will produce a dashboard that resembles the one in the picture below.
 
 ![db14](https://user-images.githubusercontent.com/31771293/48379843-216e5b80-e69b-11e8-84f1-3fea02129988.jpg)
 
-Click on each of the three filters to add them to the dashboard. Following the aforementioned steps will produce a dashboard that resembles the one in the picture below.
+The filters pane will initially apper very messy because all the filter options are expanded. To implement a visually cleaner look, click on a filter to toggle the inverted triangle icon. Click on the icon and select **Single value (dropdown)** to make use of a drop-down selection format. 
 
 ![db15](https://user-images.githubusercontent.com/31771293/48379844-216e5b80-e69b-11e8-9203-5b30687d9343.jpg)
 
-The filters pane will initially apper very messy because all the filter options are expanded. To implement a visually cleaner look, click on a filter to toggle the inverted triangle icon. Click on the icon and select **Single value (dropdown)** to make use of a drop-down selection format. 
+Repeat the step for the remaining two filters. To place them in a more central and easily accessible area of the dashboard, drag each of the three filters to the map portion of the dashboard and hold the mouse button until a rectangular outline appears. Let go of the mouse button to release the three filters within the rectangular box.
 
 ![db16](https://user-images.githubusercontent.com/31771293/48379845-2206f200-e69b-11e8-9ff9-c391099c9c7b.jpg)
 
-Repeat the step for the remaining two filters. To place them in a more central and easily accessible area of the dashboard, drag each of the three filters to the map portion of the dashboard and hold the mouse button until a rectangular outline appears. Let go of the mouse button to release the three filters within the rectangular box.
+Adjust the size of each filter box as desired. Arrange them side-by-side for easy accessibility as shown in the picture below. 
 
 ![db17](https://user-images.githubusercontent.com/31771293/48379846-2206f200-e69b-11e8-919c-e317471d4c9a.jpg)
 
-Adjust the size of each filter box as desired. Arrange them side-by-side for easy accessibility as shown in the picture below. 
+To apply a filter, click on the dropdown arrow and select **All Using This Data Source** under **Apply to Worksheets**. This option will apply a filter to all the worksheets on the dashboards.
 
 ![db18](https://user-images.githubusercontent.com/31771293/48379847-2206f200-e69b-11e8-86ce-e914edeb1ad5.jpg)
 
-To apply a filter, click on the dropdown arrow and select **All Using This Data Source** under **Apply to Worksheets**. This option will apply a filter to all the worksheets on the dashboards.
+
 
 ![db19](https://user-images.githubusercontent.com/31771293/48379848-2206f200-e69b-11e8-8569-5ae042119138.jpg)
 
