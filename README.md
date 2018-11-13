@@ -222,15 +222,16 @@ To apply a filter, click on the dropdown arrow and select **All Using This Data 
 
 ![db18](https://user-images.githubusercontent.com/31771293/48379847-2206f200-e69b-11e8-86ce-e914edeb1ad5.jpg)
 
-
+To view your dashboard in presentation mode, select **Windows** on the top navigation bar and then **Presentation Mode**.
 
 ![db19](https://user-images.githubusercontent.com/31771293/48379848-2206f200-e69b-11e8-8569-5ae042119138.jpg)
 
+Following the aforementioned steps will produce a dashboard that resembles the one shown in the picture below.
 
 ![db20](https://user-images.githubusercontent.com/31771293/48379849-2206f200-e69b-11e8-885e-b23b93a19ff5.jpg)
 
 
-
+**4. Stories**
 
 
 Click on the New Story icon besides the New Dashborad icon to create a story. Drag and drop each sheet to the top half of the window (besides 'Add a Caption') to create a story from our sheets. It is important that we drag each of the sheets to the top window because if we drag and drop it on the bottom window, it will replace the sheet you dragged prior to the new one. You can add a bief caption to each sheet you drag to the window by clicking on 'Add a Caption'. The caption is simply a story about the sheet. 
