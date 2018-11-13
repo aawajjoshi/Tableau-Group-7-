@@ -238,6 +238,13 @@ Click on the New Story icon besides the New Dashborad icon to create a story. Dr
 
 If you followed all the aforementioned steps, your story should look something like this. 
 
+![st1](https://user-images.githubusercontent.com/31771293/48391929-93ac6380-e6ce-11e8-9d4a-912ee754c05d.png)
+![st2](https://user-images.githubusercontent.com/31771293/48391930-93ac6380-e6ce-11e8-972c-cb7467d13000.png)
+![st3](https://user-images.githubusercontent.com/31771293/48391931-9444fa00-e6ce-11e8-86b5-47fd6ecb6fb3.png)
+![st4](https://user-images.githubusercontent.com/31771293/48391932-9444fa00-e6ce-11e8-9d3e-c99786100aa1.png)
+![st5](https://user-images.githubusercontent.com/31771293/48391933-9444fa00-e6ce-11e8-93d4-9a642767da9d.png)
+
+
 ## References 
 [Tableau's *Getting Started* video tutorial](https://www.tableau.com/learn/tutorials/on-demand/getting-started?product=tableau_desktop%2Btableau_prep&version=tableau_desktop_2018_3%2Btableau_prep_2018_2_1&topic=getting_started)
 
