@@ -61,6 +61,7 @@ In order to make the regions concise in the world map that we will be generating
 The next step is creating worksheets. 
 
 
+
 **2. Worksheets**
 
 A worksheet titled *Sheet1* should have been automatically created in the bottom navigation bar. If not, clicking on the **New Worksheet** icon next to the **Data Source** button on the bottom navigation bar will generate a new worksheet. To rename a worksheet, double click on that worksheet tab. Following the aforementioned step, rename the first worksheet to *Average Age*. To dive into the data, simply drag and drop the **Age** field located under **Measures** in the left hand pane to the **Text** icon under the **Marks** section.
@@ -152,6 +153,7 @@ Drag and drop the **Medal** field under the **Dimensions** section from the left
 The next step is creating a dashboard. 
 
 
+
 **3. Dashboard**
 
 To create a new dashboard, click on **New Dashboard** icon next to the **New Worksheet** icon on the bottom navigation bar. To rename a worksheet, double click on that worksheet tab or right click on the tab and select **Rename**.
@@ -231,17 +233,21 @@ Following the aforementioned steps will produce a dashboard that resembles the o
 ![db20](https://user-images.githubusercontent.com/31771293/48379849-2206f200-e69b-11e8-885e-b23b93a19ff5.jpg)
 
 
+
 **4. Stories**
 
+Click on the **New Story** icon besides the **New Dashboard** icon on the bottom navigation bar to create a story. Drag and drop each sheet to the top half of the window (besides **Add a Caption**) to create a story from the sheets. It is important that the sheets be dragged to the top window of the story canvas as dragging it to the bottom window will delete the sheet that was previously dragged and dropped and replaced it with the new one. Add a brief caption to each sheet dragge to the window by clicking on **Add a Caption** box. 
 
-Click on the New Story icon besides the New Dashborad icon to create a story. Drag and drop each sheet to the top half of the window (besides 'Add a Caption') to create a story from our sheets. It is important that we drag each of the sheets to the top window because if we drag and drop it on the bottom window, it will replace the sheet you dragged prior to the new one. You can add a bief caption to each sheet you drag to the window by clicking on 'Add a Caption'. The caption is simply a story about the sheet. 
-
-If you followed all the aforementioned steps, your story should look something like this. 
+Following the aforementioned steps will produce stories that resemble the ones shown in the picture below. 
 
 ![st1](https://user-images.githubusercontent.com/31771293/48391929-93ac6380-e6ce-11e8-9d4a-912ee754c05d.png)
+
 ![st2](https://user-images.githubusercontent.com/31771293/48391930-93ac6380-e6ce-11e8-972c-cb7467d13000.png)
+
 ![st3](https://user-images.githubusercontent.com/31771293/48391931-9444fa00-e6ce-11e8-86b5-47fd6ecb6fb3.png)
+
 ![st4](https://user-images.githubusercontent.com/31771293/48391932-9444fa00-e6ce-11e8-9d3e-c99786100aa1.png)
+
 ![st5](https://user-images.githubusercontent.com/31771293/48391933-9444fa00-e6ce-11e8-93d4-9a642767da9d.png)
 
 
@@ -249,6 +255,14 @@ If you followed all the aforementioned steps, your story should look something l
 [Tableau's *Getting Started* video tutorial](https://www.tableau.com/learn/tutorials/on-demand/getting-started?product=tableau_desktop%2Btableau_prep&version=tableau_desktop_2018_3%2Btableau_prep_2018_2_1&topic=getting_started)
 
 [Dataset obtained from Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home)
+
+[Tutorial Point's free *Learn Tableau* guide](https://www.tutorialspoint.com/tableau/)
+
+[Udemy's *Tableau Tutorial for Beginners* course](https://www.udemy.com/tableau-tutorial-for-beginners/)
+
+[Edurek'a *Tableau Training for Beginners* series on YouTube](https://www.youtube.com/watch?v=jj6-0cvcNEA)
+
+[Tableau discussions on Stack Overflow](https://stackoverflow.com/questions/tagged/tableau)
 
 
 ## Authors 
