@@ -61,7 +61,8 @@ In order to make the regions concise in the world map that we will be generating
 
 The next step is creating worksheets.    
 
-
+<br />
+<br />
 
 **2. Worksheets**
 
@@ -153,7 +154,8 @@ Drag and drop the **Medal** field under the **Dimensions** section from the left
 
 The next step is creating a dashboard.    
 
-
+<br />
+<br />
 
 **3. Dashboard**
 
@@ -233,7 +235,8 @@ Following the aforementioned steps will produce a dashboard that resembles the o
 
 ![db20](https://user-images.githubusercontent.com/31771293/48379849-2206f200-e69b-11e8-885e-b23b93a19ff5.jpg)  
 
-
+<br />
+<br />
 
 **4. Stories**
 
@@ -251,19 +254,21 @@ Following the aforementioned steps will produce stories that resemble the ones s
 
 ![st5](https://user-images.githubusercontent.com/31771293/48391933-9444fa00-e6ce-11e8-93d4-9a642767da9d.png)  
 
+<br />
+<br />
 
 ## References 
-[Tableau's *Getting Started* video tutorial](https://www.tableau.com/learn/tutorials/on-demand/getting-started?product=tableau_desktop%2Btableau_prep&version=tableau_desktop_2018_3%2Btableau_prep_2018_2_1&topic=getting_started)
+* [Tableau's *Getting Started* video tutorial](https://www.tableau.com/learn/tutorials/on-demand/getting-started?product=tableau_desktop%2Btableau_prep&version=tableau_desktop_2018_3%2Btableau_prep_2018_2_1&topic=getting_started)
 
-[Dataset obtained from Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home)
+* [Dataset obtained from Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home)
 
-[Tutorial Point's free *Learn Tableau* guide](https://www.tutorialspoint.com/tableau/)
+* [Tutorial Point's free *Learn Tableau* guide](https://www.tutorialspoint.com/tableau/)
 
-[Udemy's *Tableau Tutorial for Beginners* course](https://www.udemy.com/tableau-tutorial-for-beginners/)
+* [Udemy's *Tableau Tutorial for Beginners* course](https://www.udemy.com/tableau-tutorial-for-beginners/)
 
-[Edurek'a *Tableau Training for Beginners* series on YouTube](https://www.youtube.com/watch?v=jj6-0cvcNEA)
+* [Edurek'a *Tableau Training for Beginners* series on YouTube](https://www.youtube.com/watch?v=jj6-0cvcNEA)
 
-[Tableau discussions on Stack Overflow](https://stackoverflow.com/questions/tagged/tableau)   
+* [Tableau discussions on Stack Overflow](https://stackoverflow.com/questions/tagged/tableau)   
 
 
 ## Authors 
